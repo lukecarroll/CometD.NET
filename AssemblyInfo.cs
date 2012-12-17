@@ -9,7 +9,7 @@ using System.Runtime.CompilerServices;
 
 [assembly: AssemblyTitle("Cometd")]
 [assembly: AssemblyDescription("Cometd Bayeux Client")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Oyatel")]
 [assembly: AssemblyProduct("")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
