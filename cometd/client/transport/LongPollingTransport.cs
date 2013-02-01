@@ -208,7 +208,7 @@ namespace Cometd.Client.Transport
                     //Console.WriteLine("Sending message(s): {0}", exchange.content);
 
                     // Write to the request stream.
-                    postStream.Write(byteArray, 0, exchange.content.Length);
+                    postStream.Write(byteArray, 0, byteArray.Length);
                     postStream.Close();
                 }
 
